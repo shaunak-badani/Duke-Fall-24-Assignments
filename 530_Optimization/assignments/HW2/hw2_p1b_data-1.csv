@@ -1,0 +1,9 @@
+Plant,profitPerAcre,workersPerAcre,fertilizerPerAcre
+Cotton,400,5.0,6
+Corn,200,3.0,2
+Potatoes,100,6.0,0
+Carrots,350,1.0,0
+Wheat,200,3.0,3
+Tomatoes,500,7.0,9
+Cucumbers,400,6.0,8
+Valerian,230,0.5,0
